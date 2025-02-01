@@ -1,5 +1,5 @@
-### Kotor 2 Plugin for Mod Organizer 2
-### Working proof of concept for Knights of the Old Republic II modding in MO2
+# Kotor 2 Plugin for Mod Organizer 2
+# Working proof of concept for Knights of the Old Republic II modding in MO2
 ## **Experimental**
 
 ### Setup
