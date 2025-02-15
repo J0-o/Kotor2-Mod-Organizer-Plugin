@@ -8,3 +8,4 @@
 - [ ] map ini editor, and game saves properly
 - [ ] build deep conflict checker tool
 - [ ] built in file viewer for various kotor2 file tyes
+- [ ] reproduce for KOTOR1
